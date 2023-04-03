@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahernandezz&label=Profile%20views&color=0e75b6&style=flat" alt="sahernandezz" /> </p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahernandezz&theme=neon&hide_border=verdadero&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahernandezz&theme=radical&hide_border=verdadero&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
 
 - 📫 How to reach me **alejo.80.123@gmail.com**
