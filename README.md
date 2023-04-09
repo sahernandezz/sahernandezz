@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergio Alejandro</h1>
 <h3 align="center">Systems Engineering student passionate about programming in Java and React</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahernandezz&label=Profile%20views&color=0e75b6&style=flat" alt="sahernandezz" /> </p>
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahernandezz&theme=radical&hide_border=verdadero&locale=es&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
