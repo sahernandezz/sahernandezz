@@ -1,5 +1,5 @@
 <h2>¡Hola! 😁, Soy Sergio!</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahernandezz&layout=compact&theme=transparent" width="370">
+<img align='right' src="dino.gif" width="450">
 <p><em>Desarrollador Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Linkedin: sergio-alejandro-hernandez-zambrano](https://img.shields.io/badge/-sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)](https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)
@@ -12,26 +12,33 @@
 
 <h3>🛠️ Herramientas y Tecnologías más utilizadas</h3>
 
-<div style="display: flex; justify-content: space-between;">
-    <div>
-  <p align="center">
+<p align="center">
     <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,bootstrap,graphql,java,spring,postgres,mongodb" />
 </p>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=idea,webstorm,git,docker,aws,jenkins" />
 </p>
-    </div>
-    <div>
-        <ul>
-            <li>🌐 <strong>Front-end:</strong> Angular, React, Tailwind, Bootstrap</li>
-            <li>🛢️ <strong>Bases de Datos:</strong> PostgreSQL, MongoDB</li>
-            <li>🔧 <strong>Herramientas:</strong> Git, Docker, Jenkins</li>
-            <li>🖥️ <strong>IDE:</strong> Visual Studio Code, IntelliJ IDEA</li>
-            <li>📚 <strong>Metodologías:</strong> Scrum, Kanban</li>
-            <li>📈 <strong>Arquitecturas:</strong> Monolithic Architecture, Clean Code, Hexagonal Architecture</li>
-        </ul>
-    </div>
-</div>
 
+```javascript
+const sergio = {
+pronouns: "Él" | "Him",
+code: ["Java", "JavaScript", "TypeScript", "Python", "SQL"],
+askMeAbout: ["backend", "frontend", "arquitectura de software"],
+technologies: {
+frontEnd: {
+js: ["Angular", "React"],
+css: ["Tailwind", "Bootstrap"]
+},
+backEnd: {
+java: ["Spring Boot"],
+js: ["Node.js"]
+},
+devOps: ["Docker🐳", "Aws", "Jenkins"],
+databases: ["PostgreSQL", "MongoDB"],
+misc: ["Git", "CI/CD", "hexagonal architecture"]
+},
+architecture: ["Monolithic Architecture", "Clean Code", "Hexagonal Architecture"],
+};
+```
 
