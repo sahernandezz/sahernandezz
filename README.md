@@ -1,5 +1,5 @@
 <h2>¡Hola! 😁, Soy Sergio!</h2>
-<img align='right' src="dino.gif" width="450">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahernandezz&layout=compact&theme=dark" width="370">
 <p><em>Desarrollador Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Linkedin: sergio-alejandro-hernandez-zambrano](https://img.shields.io/badge/-sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)](https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)
@@ -8,19 +8,19 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80"> Un poco más sobre mí...
 
+---
+
 <h3>🛠️ Herramientas y Tecnologías más utilizadas</h3>
 
-<p align="center">
+<div style="display: flex; justify-content: space-between;">
+    <div>
+  <p align="center">
     <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,bootstrap,graphql,java,spring,postgres,mongodb" />
 </p>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=idea,webstorm,git,docker,aws,jenkins" />
 </p>
-
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahernandezz&layout=compact&theme=dark" width="400">
     </div>
     <div>
         <ul>
