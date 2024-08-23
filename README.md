@@ -5,9 +5,11 @@
 [![Linkedin: sergio-alejandro-hernandez-zambrano](https://img.shields.io/badge/-sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)](https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)
 ![GitHub followers](https://img.shields.io/github/followers/sahernandezz?label=Follow&style=social)
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mí...
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80"> Un poco más sobre mí...
 
-```js
+---
+
+```javascript
 const sergio = {
 pronouns: "Él" | "Him",
 code: ["Java", "JavaScript", "TypeScript", "Python", "SQL"],
@@ -21,7 +23,7 @@ backEnd: {
 java: ["Spring Boot"],
 js: ["Node.js"]
 },
-devOps: ["Docker🐳", "Oracle Cloud"],
+devOps: ["Docker🐳", "Aws", "Jenkins"],
 databases: ["PostgreSQL", "MongoDB"],
 misc: ["Git", "CI/CD", "hexagonal architecture"]
 },
