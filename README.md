@@ -1,5 +1,4 @@
 <h2>¡Hola! 😁, Soy Sergio!</h2>
-<img align='right' src="dino.gif" width="450">
 <p><em>Desarrollador Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Linkedin: sergio-alejandro-hernandez-zambrano](https://img.shields.io/badge/-sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)](https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)
