@@ -1,4 +1,8 @@
 <h2>¡Hola! 😁, Soy Sergio!</h2>
+
+<h3 align="right">🛠️ Herramientas y Tecnologías más utilizadas</h3>
+<img align="right" src="https://skillicons.dev/icons?i=java,spring,kafka,angular,react,nextjs,tailwind,py,postgres,mongodb,redis,idea,webstorm,git,docker,aws,azure,jenkins,grafana,prometheus&perline=5" />
+
 <p><em>Desarrollador Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Linkedin: sergio-alejandro-hernandez-zambrano](https://img.shields.io/badge/-sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)](https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)
@@ -6,10 +10,6 @@
 [![website: sergio-alejandro-hernandez-zambrano](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://sahernandezz.web.app/)](https://sahernandezz.web.app/)
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80"> Un poco más sobre mí...
-
-<table>
-<tr>
-<td width="55%" valign="top">
 
 ```javascript
 const sergio = {
@@ -34,14 +34,3 @@ const sergio = {
   architecture: ["Microservices", "Event-Driven", "Hexagonal"]
 };
 ```
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<h3>🛠️ Herramientas y Tecnologías más utilizadas</h3>
-
-<img src="https://skillicons.dev/icons?i=java,spring,kafka,angular,react,nextjs,tailwind,py,postgres,mongodb,redis,idea,webstorm,git,docker,aws,azure,jenkins,grafana,prometheus&perline=5" />
-
-</td>
-</tr>
-</table>
