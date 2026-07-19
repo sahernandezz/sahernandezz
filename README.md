@@ -1,5 +1,5 @@
 <h2>¡Hola! 😁, Soy Sergio!</h2>
-<p align="right"><b>🛠️ Herramientas y Tecnologías más utilizadas</b>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><b>🛠️ Herramientas y Tecnologías más utilizadas</b></p>
 <img align="right" hspace="16" src="https://skillicons.dev/icons?i=java,spring,kafka,nodejs,angular,react,nextjs,ts,js,py,tailwind,postgres,mongodb,redis,docker,aws,azure,jenkins,git,gradle,idea,webstorm,grafana,prometheus&perline=8" />
 
 <p><em>Desarrollador Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
