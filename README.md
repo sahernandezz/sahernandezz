@@ -11,32 +11,33 @@
 <h3>🛠️ Herramientas y Tecnologías más utilizadas</h3>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,tailwind,bootstrap,graphql,java,spring,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,angular,react,nextjs,tailwind,py,postgres,mongodb,redis" />
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=idea,webstorm,git,docker,aws,jenkins" />
+    <img src="https://skillicons.dev/icons?i=idea,webstorm,git,docker,aws,azure,jenkins,grafana,prometheus" />
 </p>
 
 ```javascript
 const sergio = {
 pronouns: "Él" | "Him",
-code: ["Java", "JavaScript", "TypeScript", "Python", "SQL"],
-askMeAbout: ["backend", "frontend", "arquitectura de software"],
+code: ["Java", "TypeScript", "JavaScript", "Python", "SQL"],
+askMeAbout: ["backend", "frontend", "arquitectura de software", "rendimiento"],
 technologies: {
 frontEnd: {
-js: ["Angular", "React"],
-css: ["Tailwind", "Bootstrap"]
+js: ["Angular", "React", "Next.js"],
+css: ["Tailwind"]
 },
 backEnd: {
-java: ["Spring Boot"],
-js: ["Node.js"]
+java: ["Spring Boot", "Quarkus", "Virtual Threads"],
+js: ["Node.js"],
+messaging: ["Kafka", "RabbitMQ"]
 },
-devOps: ["Docker🐳", "Aws", "Jenkins"],
-databases: ["PostgreSQL", "MongoDB"],
-misc: ["Git", "CI/CD", "hexagonal architecture"]
+devOps: ["Docker🐳", "AWS", "Azure DevOps", "Jenkins"],
+databases: ["PostgreSQL", "Oracle", "MongoDB", "Redis"],
+observability: ["Prometheus", "Grafana", "OpenTelemetry"],
+misc: ["Git", "CI/CD", "SonarQube", "Spring AI"]
 },
-architecture: ["Monolithic Architecture", "Clean Code", "Hexagonal Architecture"],
+architecture: ["Microservices", "Event-Driven", "Hexagonal Architecture", "Clean Code"],
 };
 ```
-
