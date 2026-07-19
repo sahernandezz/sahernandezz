@@ -1,8 +1,6 @@
 <h2>¡Hola! 😁, Soy Sergio!</h2>
-<p align="right"><b>🛠️ Herramientas y Tecnologías más utilizadas</b>&emsp;&emsp;&emsp;&emsp;</p>
+<p><em>Desarrollador Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<b>🛠️ Herramientas y Tecnologías más utilizadas</b></p>
 <img align="right" hspace="16" src="https://skillicons.dev/icons?i=java,spring,kafka,nodejs,angular,react,nextjs,ts,js,py,tailwind,postgres,mongodb,redis,docker,aws,azure,jenkins,git,gradle,idea,webstorm,grafana,prometheus&perline=8" />
-
-<p><em>Desarrollador Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Linkedin: sergio-alejandro-hernandez-zambrano](https://img.shields.io/badge/-sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)](https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)
 ![GitHub followers](https://img.shields.io/github/followers/sahernandezz?label=Follow&style=social)
