@@ -1,4 +1,15 @@
 <h2>¡Hola! 😁, Soy Sergio!</h2>
+
+<table align="right">
+  <tr>
+    <td align="center">
+      <h3>🛠️ Herramientas y Tecnologías más utilizadas</h3>
+      <img src="https://skillicons.dev/icons?i=java,spring,kafka,angular,react,nextjs,tailwind,py,postgres,mongodb&perline=5" /><br><br>
+      <img src="https://skillicons.dev/icons?i=redis,idea,webstorm,git,docker,aws,azure,jenkins,grafana,prometheus&perline=5" />
+    </td>
+  </tr>
+</table>
+
 <p><em>Desarrollador Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Linkedin: sergio-alejandro-hernandez-zambrano](https://img.shields.io/badge/-sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)](https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)
@@ -6,16 +17,6 @@
 [![website: sergio-alejandro-hernandez-zambrano](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://sahernandezz.web.app/)](https://sahernandezz.web.app/)
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80"> Un poco más sobre mí...
-
-<h3>🛠️ Herramientas y Tecnologías más utilizadas</h3>
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,angular,react,nextjs,tailwind,py,postgres,mongodb,redis" />
-</p>
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=idea,webstorm,git,docker,aws,azure,jenkins,grafana,prometheus" />
-</p>
 
 ```javascript
 const sergio = {
