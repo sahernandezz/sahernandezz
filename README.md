@@ -1,15 +1,4 @@
 <h2>¡Hola! 😁, Soy Sergio!</h2>
-
-<table align="right">
-  <tr>
-    <td align="center">
-      <h3>🛠️ Herramientas y Tecnologías más utilizadas</h3>
-      <img src="https://skillicons.dev/icons?i=java,spring,kafka,angular,react,nextjs,tailwind,py,postgres,mongodb&perline=5" /><br><br>
-      <img src="https://skillicons.dev/icons?i=redis,idea,webstorm,git,docker,aws,azure,jenkins,grafana,prometheus&perline=5" />
-    </td>
-  </tr>
-</table>
-
 <p><em>Desarrollador Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
 [![Linkedin: sergio-alejandro-hernandez-zambrano](https://img.shields.io/badge/-sergio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)](https://www.linkedin.com/in/sergio-alejandro-hernandez-zambrano/)
@@ -18,26 +7,41 @@
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80"> Un poco más sobre mí...
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ```javascript
 const sergio = {
-pronouns: "Él" | "Him",
-code: ["Java", "TypeScript", "JavaScript", "Python", "SQL"],
-askMeAbout: ["backend", "frontend", "arquitectura de software", "rendimiento"],
-technologies: {
-frontEnd: {
-js: ["Angular", "React", "Next.js"],
-css: ["Tailwind"]
-},
-backEnd: {
-java: ["Spring Boot", "Quarkus", "Virtual Threads"],
-js: ["Node.js"],
-messaging: ["Kafka", "RabbitMQ"]
-},
-devOps: ["Docker🐳", "AWS", "Azure DevOps", "Jenkins"],
-databases: ["PostgreSQL", "Oracle", "MongoDB", "Redis"],
-observability: ["Prometheus", "Grafana", "OpenTelemetry"],
-misc: ["Git", "CI/CD", "SonarQube", "Spring AI"]
-},
-architecture: ["Microservices", "Event-Driven", "Hexagonal Architecture", "Clean Code"],
+  pronouns: "Él" | "Him",
+  code: ["Java", "TypeScript", "JavaScript", "Python", "SQL"],
+  askMeAbout: ["backend", "frontend", "arquitectura", "rendimiento"],
+  technologies: {
+    frontEnd: {
+      js: ["Angular", "React", "Next.js"],
+      css: ["Tailwind"]
+    },
+    backEnd: {
+      java: ["Spring Boot", "Quarkus", "Virtual Threads"],
+      js: ["Node.js"],
+      messaging: ["Kafka", "RabbitMQ"]
+    },
+    devOps: ["Docker🐳", "AWS", "Azure DevOps", "Jenkins"],
+    databases: ["PostgreSQL", "Oracle", "MongoDB", "Redis"],
+    observability: ["Prometheus", "Grafana", "OpenTelemetry"],
+    misc: ["Git", "CI/CD", "SonarQube", "Spring AI"]
+  },
+  architecture: ["Microservices", "Event-Driven", "Hexagonal"]
 };
 ```
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<h3>🛠️ Herramientas y Tecnologías más utilizadas</h3>
+
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,angular,react,nextjs,tailwind,py,postgres,mongodb,redis,idea,webstorm,git,docker,aws,azure,jenkins,grafana,prometheus&perline=5" />
+
+</td>
+</tr>
+</table>
