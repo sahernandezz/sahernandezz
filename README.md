@@ -11,9 +11,9 @@
 <br clear="both">
 <br>
 
-Ingeniero backend con 3 años de experiencia en **Java y Spring Boot**. Vengo de una plataforma de misión crítica a escala nacional, donde construí el motor de procesamiento masivo, diseñé el modelo de seguridad que adoptó toda la plataforma y publiqué las librerías compartidas que usan sus microservicios.
+Ingeniero backend con 3 años de experiencia en **Java y Spring Boot**, actualmente construyendo soluciones empresariales de alta disponibilidad para el sector financiero. Vengo de una plataforma de misión crítica a escala nacional, donde construí el motor de procesamiento masivo, diseñé el modelo de seguridad que adoptó toda la plataforma y publiqué las librerías compartidas que usan sus microservicios.
 
-> 🟢 **Disponible para nuevas oportunidades** — Bogotá (presencial, híbrido o remoto).
+> 💡 Me interesan los sistemas distribuidos, el rendimiento medido antes de optimizar y las arquitecturas que siguen siendo mantenibles a los dos años.
 
 <br>
 
